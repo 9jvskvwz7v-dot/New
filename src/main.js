@@ -1,12 +1,12 @@
-import { Start } from './scenes/Start.js';
-import { Menu } from './scenes/Menu.js';
-import { Cuentos } from './scenes/Cuentos.js';
-import { CuentaCuentos } from './scenes/CuentaCuentos.js';
-import { Actividades } from './scenes/Actividades.js';
-import { SopaDeLetras } from './scenes/sopa.js';
-import { CompletaPalabra } from './scenes/completa.js';
-import { UnePalabraImagen } from './scenes/unePalabra.js';
-import { RompecabezasFrases } from './scenes/RompecabezasFrases.js';
+import { Start } from 'scenes/Start.js';
+import { Menu } from 'scenes/Menu.js';
+import { Cuentos } from 'scenes/Cuentos.js';
+import { CuentaCuentos } from 'scenes/CuentaCuentos.js';
+import { Actividades } from 'scenes/Actividades.js';
+import { SopaDeLetras } from 'scenes/sopa.js';
+import { CompletaPalabra } from 'scenes/completa.js';
+import { UnePalabraImagen } from 'scenes/unePalabra.js';
+import { RompecabezasFrases } from 'scenes/RompecabezasFrases.js';
 
 const config = {
     type: Phaser.AUTO,
